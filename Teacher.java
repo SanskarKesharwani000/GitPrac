@@ -1,3 +1,6 @@
 class Teacher{
-    int count = 89;
+    
+    void newMethod(){
+        System.out.println("New Changes");
+    }
 } 
